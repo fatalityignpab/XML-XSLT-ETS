@@ -3,7 +3,6 @@
 xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:template match="/">
 
-
 <head>
 <title>Serie uniforme de pagos</title>
 </head>
@@ -15,16 +14,15 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
         <th>Nombre</th>
         <th>Pago final</th>
       </tr>
-
-      <tr bgcolor="#FFFFFF">
-
       <xsl:for-each select="futuro/cliente">
 
-        <xsl:variable name="final" select="ahorrado * (((1 + interes)^(anio)-1)/(interes))" />
+        <xsl:variable name="final" select="ahorrado * (((1 + interes) - 1) div interes)" />
 
+      <tr bgcolor="#FFFFFF">
+        
         <td><font color="blue"><xsl:value-of select="id" /></font></td>
         <td><font color="blue"><xsl:value-of select="nombre" /></font></td>
-        <td><font color="blue">$<xsl:value-of select="$final"/></font></td>
+        <td><font color="blue"><xsl:value-of select="$final" /></font></td>
 
       </xsl:for-each>
       </tr>
