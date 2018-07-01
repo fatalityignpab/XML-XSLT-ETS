@@ -1,40 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:template match="/">
+                xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+                xmlns:math="http://exslt.org/math"
+                extension-element-prefixes="math">
 
-<head>
-<title>Serie uniforme de pagos</title>
-</head>
-  <html>
-  <body>
-    <table border="1">
-      <tr bgcolor="#5F9EA0">
-        <th>ID</th>
-        <th>Nombre</th>
-        <th>Pago final</th>
-      </tr>
-      <xsl:for-each select="futuro/cliente">
 
-        <xsl:variable name="potencia" select="1 + interes" />
-        <xsl:param name="eleva" select="0" />
+  <xsl:template name="principal" match="/">
+  <head>
+  <title>Serie uniforme de pagos</title>
+  </head>
+    <html>
+    <body>
+      <table border="1">
+        <tr bgcolor="#5F9EA0">
+          <th>ID</th>
+          <th>Nombre</th>
+          <th>Pago final</th>
+        </tr>
+        <xsl:for-each select="futuro/cliente">
 
-        <xsl:when test="$eleva = anio">
-          
-        </xsl:when>
+          <xsl:variable name="potencia" select="(1 + interes)" />
 
-        <xsl:variable name="final" select="ahorrado * (($potencia - 1) div interes)" />
+          <xsl:variable name="final" select="ahorrado * (($potencia - 1) div interes)" />
 
-      <tr bgcolor="#FFFFFF">
+        <tr bgcolor="#FFFFFF">
+          <td><font color="blue"><xsl:value-of select="id" /></font></td>
+          <td><font color="blue"><xsl:value-of select="nombre" /></font></td>
+          <td><font color="blue"><xsl:value-of select="$final" /></font></td>
+        </xsl:for-each>
+        </tr>
+      </table>
+    </body>
+    </html>
+  </xsl:template>
 
-        <td><font color="blue"><xsl:value-of select="id" /></font></td>
-        <td><font color="blue"><xsl:value-of select="nombre" /></font></td>
-        <td><font color="blue"><xsl:value-of select="$final" /></font></td>
-
-      </xsl:for-each>
-      </tr>
-    </table>
-  </body>
-  </html>
-</xsl:template>
 </xsl:stylesheet>
