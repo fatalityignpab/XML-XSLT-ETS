@@ -5,41 +5,27 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
 
 <head>
-<title>Untitled Document</title>
+<title>Serie uniforme de pagos</title>
 </head>
   <html>
   <body>
     <table border="1">
       <tr bgcolor="#5F9EA0">
-        <th>Boleta</th>
-        <th>Total Activos</th>
-        <th>Total Pasivos y Capital</th>
-        <th>Diferencia</th>
-        <th>Conclusion</th>
+        <th>ID</th>
+        <th>Nombre</th>
+        <th>Pago final</th>
       </tr>
-      <xsl:for-each select="mercado/financieras">
-      <xsl:variable name="activo" select="infraestructura + bancos + insumos +         en_x0020_proceso + mercancias + clientes " />
-      <xsl:variable name="pasivo" select="proveedores + prestamos + social + utilidades" />
-      <xsl:variable name="total" select="$activo - $pasivo"/>
+
       <tr bgcolor="#FFFFFF">
-        <td><font color="blue"><xsl:value-of select="boleta" /></font></td>
-        <td><font color="blue"><xsl:value-of select="$activo"/></font></td>
-        <td><font color="blue"><xsl:value-of select="$pasivo" /></font></td>
-        <td><font color="blue"><xsl:value-of select="$total" /></font></td>
 
-        <xsl:choose>
-        <xsl:when test= "$activo - $pasivo &lt;-.01 ">
+      <xsl:for-each select="futuro/cliente">
 
-        <td><font color="black">El balance general no cuadra</font></td>
-        </xsl:when>
-        <xsl:when test= "$activo - $pasivo &gt;.01 ">
+        <xsl:variable name="final" select="ahorrado * (((1 + interes)^(anio)-1)/(interes))" />
 
-        <td><font color="black">El balance general no cuadra</font></td>
-        </xsl:when>
-        <xsl:otherwise>
-        <td><font color="black">El balance general cuadra</font></td>
-        </xsl:otherwise>
-        </xsl:choose>
+        <td><font color="blue"><xsl:value-of select="id" /></font></td>
+        <td><font color="blue"><xsl:value-of select="nombre" /></font></td>
+        <td><font color="blue">$<xsl:value-of select="$final"/></font></td>
+
       </xsl:for-each>
       </tr>
     </table>
