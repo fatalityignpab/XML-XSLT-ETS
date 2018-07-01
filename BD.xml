@@ -1,2036 +1,653 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mercado>
-	<estudiantes>
-		<boleta>2011600002</boleta>
+<futuro>
+	<cliente>
+		<id>2011600002</id>
 		<nombre>ABURTO MENDOZA MIGUEL ANGEL</nombre>
-		<industria>5</industria>
-		<grupo>in1</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014600044</boleta>
-		<nombre>ALEJANDRO CASTA�EDA CLAUDIA</nombre>
-		<industria>3</industria>
-		<grupo>in1</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014600057</boleta>
+		<ahorrado>10000</ahorrado>
+		<interes>0.2</interes>
+		<anio>5</anio>
+	</cliente>
+	<cliente>
+		<id>2014600044</id>
+		<nombre>ALEJANDRO CASTAÑEDA CLAUDIA</nombre>
+		<ahorrado>10000</ahorrado>
+		<interes>0.2</interes>
+		<anio>5</anio>
+	</cliente>
+	<cliente>
+		<id>2014600057</id>
 		<nombre>ALVARADO MARTINEZ RODRIGO</nombre>
-		<industria>2</industria>
-		<grupo>in1</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014602071</boleta>
+		<ahorrado>10000</ahorrado>
+		<interes>0.2</interes>
+		<anio>5</anio>
+	</cliente>
+	<cliente>
+		<id>2014602071</id>
 		<nombre>ASCENCIO AGUILAR ALAN ANTONIO</nombre>
-		<industria>3</industria>
-		<grupo>in1</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2012600123</boleta>
+		<ahorrado>10000</ahorrado>
+		<interes>0.2</interes>
+		<anio>5</anio>
+	</cliente>
+	<cliente>
+		<id>2012600123</id>
 		<nombre>BARONA HERNANDEZ JORGE ARMANDO</nombre>
-		<industria>1</industria>
-		<grupo>in1</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2013600792</boleta>
+		<ahorrado>10000</ahorrado>
+		<interes>0.2</interes>
+		<anio>5</anio>
+	</cliente>
+	<cliente>
+		<id>2013600792</id>
 		<nombre>BORRAZ FRANCO PAOLA DONAJI</nombre>
-		<industria>4</industria>
-		<grupo>in1</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2013600834</boleta>
+		<ahorrado>10000</ahorrado>
+		<interes>0.2</interes>
+		<anio>5</anio>
+	</cliente>
+	<cliente>
+		<id>2013600834</id>
 		<nombre>CASTREJON BREMER BRISSA DE MAR</nombre>
-		<industria>3</industria>
-		<grupo>in1</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014600397</boleta>
+		<ahorrado>10000</ahorrado>
+		<interes>0.2</interes>
+		<anio>5</anio>
+	</cliente>
+	<cliente>
+		<id>2014600397</id>
 		<nombre>DE LA CRUZ RAMIREZ FELIPE</nombre>
-		<industria>4</industria>
-		<grupo>in1</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2013600771</boleta>
+		<ahorrado>10000</ahorrado>
+		<interes>0.2</interes>
+		<anio>5</anio>
+	</cliente>
+	<cliente>
+		<id>2013600771</id>
 		<nombre>GARCIA CABELLO MARTHA LETICIA</nombre>
 		<industria>1</industria>
 		<grupo>in1</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2013601935</boleta>
+	</cliente>
+	<cliente>
+		<id>2013601935</id>
 		<nombre>GARCIA SANDOVAL ALEJANDRA IBETH</nombre>
 		<industria>4</industria>
 		<grupo>in1</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2013601694</boleta>
+	</cliente>
+	<cliente>
+		<id>2013601694</id>
 		<nombre>GAYTAN DOMINGUEZ RICARDO</nombre>
 		<industria>2</industria>
 		<grupo>in1</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2013602145</boleta>
+	</cliente>
+	<cliente>
+		<id>2013602145</id>
 		<nombre>GRESS ROBLES RICARDO</nombre>
 		<industria>2</industria>
 		<grupo>in1</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2013600646</boleta>
+	</cliente>
+	<cliente>
+		<id>2013600646</id>
 		<nombre>HERNANDEZ CASTA�ARES JONATHAN NOE</nombre>
 		<industria>1</industria>
 		<grupo>in1</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014600896</boleta>
+	</cliente>
+	<cliente>
+		<id>2014600896</id>
 		<nombre>INIESTRA BAUTISTA MARIA ESTHER</nombre>
 		<industria>6</industria>
 		<grupo>in1</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2013601617</boleta>
+	</cliente>
+	<cliente>
+		<id>2013601617</id>
 		<nombre>LOVERA REYES MARIA FERNANDA</nombre>
 		<industria>6</industria>
 		<grupo>in1</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2013601041</boleta>
+	</cliente>
+	<cliente>
+		<id>2013601041</id>
 		<nombre>MARQUEZ BERNAL LUIS</nombre>
 		<industria>1</industria>
 		<grupo>in1</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2013600754</boleta>
+	</cliente>
+	<cliente>
+		<id>2013600754</id>
 		<nombre>MONTES DE OCA RODRIGUEZ MAYELA</nombre>
 		<industria>5</industria>
 		<grupo>in1</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014601320</boleta>
+	</cliente>
+	<cliente>
+		<id>2014601320</id>
 		<nombre>OLASCOAGA CAMPUZANO DAVID</nombre>
 		<industria>6</industria>
 		<grupo>in1</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2013600523</boleta>
+	</cliente>
+	<cliente>
+		<id>2013600523</id>
 		<nombre>PAREDES DE JESUS BEATRIZ</nombre>
 		<industria>2</industria>
 		<grupo>in1</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014602504</boleta>
+	</cliente>
+	<cliente>
+		<id>2014602504</id>
 		<nombre>RETANA GONZALEZ JUAN JOSE</nombre>
 		<industria>5</industria>
 		<grupo>in1</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2011602643</boleta>
+	</cliente>
+	<cliente>
+		<id>2011602643</id>
 		<nombre>ROSAS LOZANO ELVIA</nombre>
 		<industria>6</industria>
 		<grupo>in1</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2011602901</boleta>
+	</cliente>
+	<cliente>
+		<id>2011602901</id>
 		<nombre>SOLIS NERIA ANDRES RICARDO</nombre>
 		<industria>6</industria>
 		<grupo>in1</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2010603139</boleta>
+	</cliente>
+	<cliente>
+		<id>2010603139</id>
 		<nombre>TORRES VAZQUEZ RICARDO</nombre>
 		<industria>4</industria>
 		<grupo>in1</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2013601883</boleta>
+	</cliente>
+	<cliente>
+		<id>2013601883</id>
 		<nombre>TREJO SANCHEZ HECTOR JESUS</nombre>
 		<industria>6</industria>
 		<grupo>in1</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014601908</boleta>
+	</cliente>
+	<cliente>
+		<id>2014601908</id>
 		<nombre>VALDERRAMA CORTES JOSE LUIS</nombre>
 		<industria>4</industria>
 		<grupo>in1</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2013601007</boleta>
+	</cliente>
+	<cliente>
+		<id>2013601007</id>
 		<nombre>VICARIO MARTINEZ JORGE ADRIAN</nombre>
 		<industria>3</industria>
 		<grupo>in1</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014600095</boleta>
+	</cliente>
+	<cliente>
+		<id>2014600095</id>
 		<nombre>ANGUIANO CRUZ ANA LAURA</nombre>
 		<industria>1</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014600118</boleta>
+	</cliente>
+	<cliente>
+		<id>2014600118</id>
 		<nombre>ARREDONDO RODRIGUEZ CARLOS ANTONIO</nombre>
 		<industria>1</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014602070</boleta>
+	</cliente>
+	<cliente>
+		<id>2014602070</id>
 		<nombre>ARROYO ORTIZ ADRIANA</nombre>
 		<industria>2</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014600179</boleta>
+	</cliente>
+	<cliente>
+		<id>2014600179</id>
 		<nombre>BAUTISTA GONZALEZ SILVIA ALEJANDRA</nombre>
 		<industria>5</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014600213</boleta>
+	</cliente>
+	<cliente>
+		<id>2014600213</id>
 		<nombre>BRAVO ZITLALPOPOCA MARIEL KAREN</nombre>
 		<industria>3</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014600241</boleta>
+	</cliente>
+	<cliente>
+		<id>2014600241</id>
 		<nombre>CAMPOS A�ORVE PEDRO</nombre>
 		<industria>5</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014600249</boleta>
+	</cliente>
+	<cliente>
+		<id>2014600249</id>
 		<nombre>CANSECO SANCHEZ SERGIO AUGUSTO</nombre>
 		<industria>6</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014600277</boleta>
+	</cliente>
+	<cliente>
+		<id>2014600277</id>
 		<nombre>CASTA�EDA MENDOZA SABAOTH EMMANUEL</nombre>
 		<industria>5</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2013600869</boleta>
+	</cliente>
+	<cliente>
+		<id>2013600869</id>
 		<nombre>CASTELLANOS RAMOS ANTONIO</nombre>
 		<industria>5</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2013600279</boleta>
+	</cliente>
+	<cliente>
+		<id>2013600279</id>
 		<nombre>CEDE�O TENORIO OMAR FELIPE</nombre>
 		<industria>2</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2013600405</boleta>
+	</cliente>
+	<cliente>
+		<id>2013600405</id>
 		<nombre>CERVANTES AVILOR JESSICA TERESA</nombre>
 		<industria>3</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2012600337</boleta>
+	</cliente>
+	<cliente>
+		<id>2012600337</id>
 		<nombre>CUELLAR ESPINDOLA JORGE IVAN</nombre>
 		<industria>3</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014600428</boleta>
+	</cliente>
+	<cliente>
+		<id>2014600428</id>
 		<nombre>DIAZ CORONA OMAR</nombre>
 		<industria>1</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2013602579</boleta>
+	</cliente>
+	<cliente>
+		<id>2013602579</id>
 		<nombre>DOMINGUEZ VALERIO MARIANA</nombre>
 		<industria>2</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014600683</boleta>
+	</cliente>
+	<cliente>
+		<id>2014600683</id>
 		<nombre>GONZALEZ ARIAS SUNDARY GUIMEL</nombre>
 		<industria>4</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014600754</boleta>
+	</cliente>
+	<cliente>
+		<id>2014600754</id>
 		<nombre>GUTIERREZ HERRERA MIGUEL ANGEL</nombre>
 		<industria>5</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014602837</boleta>
+	</cliente>
+	<cliente>
+		<id>2014602837</id>
 		<nombre>GUZMAN EUSEBIO JOSE JESUS</nombre>
 		<industria>5</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014600791</boleta>
+	</cliente>
+	<cliente>
+		<id>2014600791</id>
 		<nombre>HERNANDEZ ESCAMILLA ANGELA</nombre>
 		<industria>5</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2009601256</boleta>
+	</cliente>
+	<cliente>
+		<id>2009601256</id>
 		<nombre>HERRERA BERNAL GERARDO</nombre>
 		<industria>1</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014600894</boleta>
+	</cliente>
+	<cliente>
+		<id>2014600894</id>
 		<nombre>IGNACIO ALTAMIRANO BRENDA MARIA</nombre>
 		<industria>6</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014600921</boleta>
+	</cliente>
+	<cliente>
+		<id>2014600921</id>
 		<nombre>JIMENEZ VELAZQUEZ MONSERRAT</nombre>
 		<industria>1</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2013601015</boleta>
+	</cliente>
+	<cliente>
+		<id>2013601015</id>
 		<nombre>LEMUS FLORES DIANA LAURA</nombre>
 		<industria>2</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014600952</boleta>
+	</cliente>
+	<cliente>
+		<id>2014600952</id>
 		<nombre>LEON ORNELAS VICTOR</nombre>
 		<industria>2</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2011602559</boleta>
+	</cliente>
+	<cliente>
+		<id>2011602559</id>
 		<nombre>MARTINEZ QUIROZ MICHAEL</nombre>
 		<industria>3</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014601158</boleta>
+	</cliente>
+	<cliente>
+		<id>2014601158</id>
 		<nombre>MEJIA REYES CRISTIAN JOSUE</nombre>
 		<industria>4</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014601178</boleta>
+	</cliente>
+	<cliente>
+		<id>2014601178</id>
 		<nombre>MENDOZA BONILLA GUILLERMO</nombre>
 		<industria>6</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2012350555</boleta>
+	</cliente>
+	<cliente>
+		<id>2012350555</id>
 		<nombre>MOLINA LUEVANO ANGEL ALEXIS</nombre>
 		<industria>3</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014601232</boleta>
+	</cliente>
+	<cliente>
+		<id>2014601232</id>
 		<nombre>MONROY SANCHEZ ILSE LILIANA</nombre>
 		<industria>4</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2013600679</boleta>
+	</cliente>
+	<cliente>
+		<id>2013600679</id>
 		<nombre>ODILON ODILON ALAN MARTIN</nombre>
 		<industria>4</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2012601128</boleta>
+	</cliente>
+	<cliente>
+		<id>2012601128</id>
 		<nombre>ORTIZ CARRILLO GERARDO</nombre>
 		<industria>1</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2013600946</boleta>
+	</cliente>
+	<cliente>
+		<id>2013600946</id>
 		<nombre>PACHECO BARRAZA ALICIA</nombre>
 		<industria>6</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014601518</boleta>
+	</cliente>
+	<cliente>
+		<id>2014601518</id>
 		<nombre>RAMOS RAMIREZ JESSICA IRENE</nombre>
 		<industria>2</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2013600961</boleta>
+	</cliente>
+	<cliente>
+		<id>2013600961</id>
 		<nombre>REYES LLAMAS CESAR ANTONIO</nombre>
 		<industria>3</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014602518</boleta>
+	</cliente>
+	<cliente>
+		<id>2014602518</id>
 		<nombre>RIVERA DE ANDA VICTOR HUGO</nombre>
 		<industria>1</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2013600488</boleta>
+	</cliente>
+	<cliente>
+		<id>2013600488</id>
 		<nombre>SANCHEZ JUAREZ ESTEBAN GEOVANNY</nombre>
 		<industria>4</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014601839</boleta>
+	</cliente>
+	<cliente>
+		<id>2014601839</id>
 		<nombre>SUAREZ ALDANA TERESA</nombre>
 		<industria>6</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014601851</boleta>
+	</cliente>
+	<cliente>
+		<id>2014601851</id>
 		<nombre>TEJEDA ROJAS MISAEL ABRAHAM</nombre>
 		<industria>6</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014601863</boleta>
+	</cliente>
+	<cliente>
+		<id>2014601863</id>
 		<nombre>TOBON ORNELAS VANESSA</nombre>
 		<industria>6</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2013600804</boleta>
+	</cliente>
+	<cliente>
+		<id>2013600804</id>
 		<nombre>VARGAS RODRIGUEZ JUAN CARLOS</nombre>
 		<industria>6</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014602005</boleta>
+	</cliente>
+	<cliente>
+		<id>2014602005</id>
 		<nombre>YA�EZ MARTINEZ AMEYALLI YOL</nombre>
 		<industria>3</industria>
 		<grupo>in2</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2013601629</boleta>
+	</cliente>
+	<cliente>
+		<id>2013601629</id>
 		<nombre>AGUILAR RIVERA AMAYRANI</nombre>
 		<industria>1</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2013601046</boleta>
+	</cliente>
+	<cliente>
+		<id>2013601046</id>
 		<nombre>ALVAREZ GODINEZ DANIEL</nombre>
 		<industria>4</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014600085</boleta>
+	</cliente>
+	<cliente>
+		<id>2014600085</id>
 		<nombre>ANDRIANO RIVERA ILSE</nombre>
 		<industria>5</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2011601324</boleta>
+	</cliente>
+	<cliente>
+		<id>2011601324</id>
 		<nombre>ARIAS MEJIA ANTONIO</nombre>
 		<industria>1</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2012600090</boleta>
+	</cliente>
+	<cliente>
+		<id>2012600090</id>
 		<nombre>ARREOLA RENDON ALFREDO</nombre>
 		<industria>2</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014602069</boleta>
+	</cliente>
+	<cliente>
+		<id>2014602069</id>
 		<nombre>ARROYO AZCONA ROGELIO</nombre>
 		<industria>3</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2012602718</boleta>
+	</cliente>
+	<cliente>
+		<id>2012602718</id>
 		<nombre>CARPINTEYRO CARDENAS SAMUEL</nombre>
 		<industria>5</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2012601800</boleta>
+	</cliente>
+	<cliente>
+		<id>2012601800</id>
 		<nombre>CORNEJO CABRERA SERGIO EDUARDO</nombre>
 		<industria>3</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2012602345</boleta>
+	</cliente>
+	<cliente>
+		<id>2012602345</id>
 		<nombre>CRUZ DOMINGUEZ JESSICA</nombre>
 		<industria>1</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2013600943</boleta>
+	</cliente>
+	<cliente>
+		<id>2013600943</id>
 		<nombre>DE SANTIAGO CORTES CRUZ EDUARDO</nombre>
 		<industria>2</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014600441</boleta>
+	</cliente>
+	<cliente>
+		<id>2014600441</id>
 		<nombre>DIAZ VILLAGOMEZ LAURA MICHELLE</nombre>
 		<industria>2</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2009600346</boleta>
+	</cliente>
+	<cliente>
+		<id>2009600346</id>
 		<nombre>GONZALEZ ALONSO MIGUEL ANGEL</nombre>
 		<industria>3</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2013601037</boleta>
+	</cliente>
+	<cliente>
+		<id>2013601037</id>
 		<nombre>GONZALEZ GARCIA JUAN CARLOS</nombre>
 		<industria>4</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2010600292</boleta>
+	</cliente>
+	<cliente>
+		<id>2010600292</id>
 		<nombre>GONZALEZ PIMENTEL LUIS EDUARDO</nombre>
 		<industria>4</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2013601709</boleta>
+	</cliente>
+	<cliente>
+		<id>2013601709</id>
 		<nombre>HERNANDEZ GARCIA MARCELA</nombre>
 		<industria>6</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2011603155</boleta>
+	</cliente>
+	<cliente>
+		<id>2011603155</id>
 		<nombre>HERNANDEZ YA�EZ DAVID HERNAN</nombre>
 		<industria>6</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2012600747</boleta>
+	</cliente>
+	<cliente>
+		<id>2012600747</id>
 		<nombre>ICAZA GALVAN JOSE ERNESTO</nombre>
 		<industria>1</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2011602801</boleta>
+	</cliente>
+	<cliente>
+		<id>2011602801</id>
 		<nombre>LIMON MARTINEZ YOLITZIN</nombre>
 		<industria>2</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014600966</boleta>
+	</cliente>
+	<cliente>
+		<id>2014600966</id>
 		<nombre>LOPEZ CHAVEZ FRANCISCO JAVIER</nombre>
 		<industria>1</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2013600940</boleta>
+	</cliente>
+	<cliente>
+		<id>2013600940</id>
 		<nombre>LOPEZ MENDOZA DIANA LAURA</nombre>
 		<industria>6</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2013340222</boleta>
+	</cliente>
+	<cliente>
+		<id>2013340222</id>
 		<nombre>LOPEZ NU�EZ BERNARDO</nombre>
 		<industria>5</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2013600764</boleta>
+	</cliente>
+	<cliente>
+		<id>2013600764</id>
 		<nombre>MARTINEZ ESPITIA SANDRA LIZBETH</nombre>
 		<industria>4</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2013601783</boleta>
+	</cliente>
+	<cliente>
+		<id>2013601783</id>
 		<nombre>MEDINA ESQUIVEL MIGUEL ANGEL</nombre>
 		<industria>5</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2011603240</boleta>
+	</cliente>
+	<cliente>
+		<id>2011603240</id>
 		<nombre>MORALES GALINDO HUGO</nombre>
 		<industria>5</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2013600905</boleta>
+	</cliente>
+	<cliente>
+		<id>2013600905</id>
 		<nombre>MORENO CALDERON CESAR ESTEBAN</nombre>
 		<industria>6</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2012350620</boleta>
+	</cliente>
+	<cliente>
+		<id>2012350620</id>
 		<nombre>OCAMPO PANTOJA MARIO JAVIER</nombre>
 		<industria>6</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014601376</boleta>
+	</cliente>
+	<cliente>
+		<id>2014601376</id>
 		<nombre>PACHECO MARTINEZ LOURDES PAULA SABRINA</nombre>
 		<industria>3</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014601384</boleta>
+	</cliente>
+	<cliente>
+		<id>2014601384</id>
 		<nombre>PALACIOS AGUILAR JOSE DANIEL</nombre>
 		<industria>4</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2013600070</boleta>
+	</cliente>
+	<cliente>
+		<id>2013600070</id>
 		<nombre>RIVERA VILLANUEVA VICENTE</nombre>
 		<industria>1</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2012601341</boleta>
+	</cliente>
+	<cliente>
+		<id>2012601341</id>
 		<nombre>RIVERO CALVILLO CRISTIAN</nombre>
 		<industria>6</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2010600713</boleta>
+	</cliente>
+	<cliente>
+		<id>2010600713</id>
 		<nombre>SANCHEZ LORA PAMELA</nombre>
 		<industria>2</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2013600057</boleta>
+	</cliente>
+	<cliente>
+		<id>2013600057</id>
 		<nombre>SANCHEZ VIDAL NOELIA</nombre>
 		<industria>1</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014601846</boleta>
+	</cliente>
+	<cliente>
+		<id>2014601846</id>
 		<nombre>TAMES HERNANDEZ KEVIN DAVID</nombre>
 		<industria>5</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2010603424</boleta>
+	</cliente>
+	<cliente>
+		<id>2010603424</id>
 		<nombre>TERRAZAS GONZALEZ EDGAR</nombre>
 		<industria>2</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014601879</boleta>
+	</cliente>
+	<cliente>
+		<id>2014601879</id>
 		<nombre>TORRES MORALES NUBIA</nombre>
 		<industria>3</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2012602203</boleta>
+	</cliente>
+	<cliente>
+		<id>2012602203</id>
 		<nombre>TORRES PANTALEON TANIA</nombre>
 		<industria>4</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014601882</boleta>
+	</cliente>
+	<cliente>
+		<id>2014601882</id>
 		<nombre>TORRES SANCHEZ CHRISTOPHER</nombre>
 		<industria>5</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2014601907</boleta>
+	</cliente>
+	<cliente>
+		<id>2014601907</id>
 		<nombre>VALADEZ FLORES EDUARDO JEHU</nombre>
 		<industria>4</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2010602674</boleta>
+	</cliente>
+	<cliente>
+		<id>2010602674</id>
 		<nombre>VALDEZ MARTINEZ ERIK EFREN</nombre>
 		<industria>6</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2013601084</boleta>
+	</cliente>
+	<cliente>
+		<id>2013601084</id>
 		<nombre>VARGAS FELICIANO RUBEN</nombre>
 		<industria>2</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<estudiantes>
-		<boleta>2013600180</boleta>
+	</cliente>
+	<cliente>
+		<id>2013600180</id>
 		<nombre>VEGA LOPEZ LUIS FERNANDO</nombre>
 		<industria>1</industria>
 		<grupo>ic</grupo>
-	</estudiantes>
-	<financieras>
-		<boleta>2011600002</boleta>
-		<infraestructura>35675</infraestructura>
-		<bancos>19069</bancos>
-		<insumos>93137.7731</insumos>
-		<en_x0020_proceso>9350</en_x0020_proceso>
-		<mercancias>41520</mercancias>
-		<clientes>30462</clientes>
-		<proveedores>41254</proveedores>
-		<prestamos>29169</prestamos>
-		<social>66305</social>
-		<utilidades>92485.7731</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014600044</boleta>
-		<infraestructura>13574</infraestructura>
-		<bancos>16348</bancos>
-		<insumos>98513.5842</insumos>
-		<en_x0020_proceso>6234</en_x0020_proceso>
-		<mercancias>7482</mercancias>
-		<clientes>48882</clientes>
-		<proveedores>39791</proveedores>
-		<prestamos>38829</prestamos>
-		<social>9100</social>
-		<utilidades>103313.5842</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014600057</boleta>
-		<infraestructura>52184</infraestructura>
-		<bancos>4773</bancos>
-		<insumos>25790.9868</insumos>
-		<en_x0020_proceso>21145</en_x0020_proceso>
-		<mercancias>17646</mercancias>
-		<clientes>4172</clientes>
-		<proveedores>56902</proveedores>
-		<prestamos>61840</prestamos>
-		<social>24674</social>
-		<utilidades>-17705.0132</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014602071</boleta>
-		<infraestructura>63035</infraestructura>
-		<bancos>19813</bancos>
-		<insumos>25023.2224</insumos>
-		<en_x0020_proceso>1643</en_x0020_proceso>
-		<mercancias>26750</mercancias>
-		<clientes>34460</clientes>
-		<proveedores>4851</proveedores>
-		<prestamos>16824</prestamos>
-		<social>28647</social>
-		<utilidades>120402.2224</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2012600123</boleta>
-		<infraestructura>38722</infraestructura>
-		<bancos>35672</bancos>
-		<insumos>43434.2867</insumos>
-		<en_x0020_proceso>54170</en_x0020_proceso>
-		<mercancias>62360</mercancias>
-		<clientes>34495</clientes>
-		<proveedores>15151</proveedores>
-		<prestamos>64781</prestamos>
-		<social>33478</social>
-		<utilidades>155443.2867</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2013600792</boleta>
-		<infraestructura>66791</infraestructura>
-		<bancos>41602</bancos>
-		<insumos>10487.4069</insumos>
-		<en_x0020_proceso>3310</en_x0020_proceso>
-		<mercancias>9656</mercancias>
-		<clientes>39245</clientes>
-		<proveedores>68045</proveedores>
-		<prestamos>42861</prestamos>
-		<social>53873</social>
-		<utilidades>6312.4069</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2013600834</boleta>
-		<infraestructura>62367</infraestructura>
-		<bancos>46114</bancos>
-		<insumos>10465.5621</insumos>
-		<en_x0020_proceso>62023</en_x0020_proceso>
-		<mercancias>16142</mercancias>
-		<clientes>66349</clientes>
-		<proveedores>39287</proveedores>
-		<prestamos>1494</prestamos>
-		<social>8179</social>
-		<utilidades>214500.5621</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014600397</boleta>
-		<infraestructura>35002</infraestructura>
-		<bancos>68126</bancos>
-		<insumos>92278.1661</insumos>
-		<en_x0020_proceso>61012</en_x0020_proceso>
-		<mercancias>46671</mercancias>
-		<clientes>21337</clientes>
-		<proveedores>66171</proveedores>
-		<prestamos>69739</prestamos>
-		<social>62060</social>
-		<utilidades>126456.1661</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2013600771</boleta>
-		<infraestructura>69531</infraestructura>
-		<bancos>65544</bancos>
-		<insumos>29705.1837</insumos>
-		<en_x0020_proceso>39619</en_x0020_proceso>
-		<mercancias>33256</mercancias>
-		<clientes>47543</clientes>
-		<proveedores>20739</proveedores>
-		<prestamos>16602</prestamos>
-		<social>34866</social>
-		<utilidades>212991.1837</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2013601935</boleta>
-		<infraestructura>37477</infraestructura>
-		<bancos>9713</bancos>
-		<insumos>11435.0058</insumos>
-		<en_x0020_proceso>66719</en_x0020_proceso>
-		<mercancias>45724</mercancias>
-		<clientes>50506</clientes>
-		<proveedores>69352</proveedores>
-		<prestamos>37033</prestamos>
-		<social>3192</social>
-		<utilidades>111997.0058</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2013601694</boleta>
-		<infraestructura>42719</infraestructura>
-		<bancos>16334</bancos>
-		<insumos>61270.7142</insumos>
-		<en_x0020_proceso>66211</en_x0020_proceso>
-		<mercancias>50097</mercancias>
-		<clientes>56366</clientes>
-		<proveedores>21779</proveedores>
-		<prestamos>17039</prestamos>
-		<social>46199</social>
-		<utilidades>207980.7142</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2013602145</boleta>
-		<infraestructura>11500</infraestructura>
-		<bancos>38607</bancos>
-		<insumos>21314.7593</insumos>
-		<en_x0020_proceso>67689</en_x0020_proceso>
-		<mercancias>42347</mercancias>
-		<clientes>9741</clientes>
-		<proveedores>24174</proveedores>
-		<prestamos>19890</prestamos>
-		<social>56070</social>
-		<utilidades>91064.7593</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2013600646</boleta>
-		<infraestructura>58060</infraestructura>
-		<bancos>23931</bancos>
-		<insumos>8979.1797</insumos>
-		<en_x0020_proceso>22272</en_x0020_proceso>
-		<mercancias>32002</mercancias>
-		<clientes>15700</clientes>
-		<proveedores>55427</proveedores>
-		<prestamos>11932</prestamos>
-		<social>19996</social>
-		<utilidades>63589.1797</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014600896</boleta>
-		<infraestructura>51076</infraestructura>
-		<bancos>62319</bancos>
-		<insumos>28623.4881</insumos>
-		<en_x0020_proceso>1967</en_x0020_proceso>
-		<mercancias>20416</mercancias>
-		<clientes>11928</clientes>
-		<proveedores>63547</proveedores>
-		<prestamos>48384</prestamos>
-		<social>67452</social>
-		<utilidades>-3053.5119</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2013601617</boleta>
-		<infraestructura>22151</infraestructura>
-		<bancos>30005</bancos>
-		<insumos>25355.7669</insumos>
-		<en_x0020_proceso>68994</en_x0020_proceso>
-		<mercancias>52431</mercancias>
-		<clientes>20332</clientes>
-		<proveedores>64644</proveedores>
-		<prestamos>6289</prestamos>
-		<social>64840</social>
-		<utilidades>83495.7669</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2013601041</boleta>
-		<infraestructura>34480</infraestructura>
-		<bancos>24558</bancos>
-		<insumos>10476.5402</insumos>
-		<en_x0020_proceso>15455</en_x0020_proceso>
-		<mercancias>62988</mercancias>
-		<clientes>2831</clientes>
-		<proveedores>60423</proveedores>
-		<prestamos>25717</prestamos>
-		<social>47993</social>
-		<utilidades>16655.5402</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2013600754</boleta>
-		<infraestructura>32914</infraestructura>
-		<bancos>46441</bancos>
-		<insumos>10385.349</insumos>
-		<en_x0020_proceso>62732</en_x0020_proceso>
-		<mercancias>19130</mercancias>
-		<clientes>21812</clientes>
-		<proveedores>13433</proveedores>
-		<prestamos>41184</prestamos>
-		<social>47845</social>
-		<utilidades>90952.349</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014601320</boleta>
-		<infraestructura>26129</infraestructura>
-		<bancos>65447</bancos>
-		<insumos>17625.4036</insumos>
-		<en_x0020_proceso>59343</en_x0020_proceso>
-		<mercancias>19183</mercancias>
-		<clientes>32085</clientes>
-		<proveedores>45674</proveedores>
-		<prestamos>31917</prestamos>
-		<social>26240</social>
-		<utilidades>115981.4036</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2013600523</boleta>
-		<infraestructura>54094</infraestructura>
-		<bancos>3671</bancos>
-		<insumos>34899.3124</insumos>
-		<en_x0020_proceso>59280</en_x0020_proceso>
-		<mercancias>9193</mercancias>
-		<clientes>25571</clientes>
-		<proveedores>23276</proveedores>
-		<prestamos>46619</prestamos>
-		<social>7790</social>
-		<utilidades>119023.3124</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014602504</boleta>
-		<infraestructura>32612</infraestructura>
-		<bancos>39046</bancos>
-		<insumos>25734.7004</insumos>
-		<en_x0020_proceso>28023</en_x0020_proceso>
-		<mercancias>5637</mercancias>
-		<clientes>14277</clientes>
-		<proveedores>30720</proveedores>
-		<prestamos>18573</prestamos>
-		<social>19765</social>
-		<utilidades>76271.7004</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2011602643</boleta>
-		<infraestructura>33446</infraestructura>
-		<bancos>26730</bancos>
-		<insumos>42058.5187</insumos>
-		<en_x0020_proceso>14288</en_x0020_proceso>
-		<mercancias>53148</mercancias>
-		<clientes>3524</clientes>
-		<proveedores>48566</proveedores>
-		<prestamos>28613</prestamos>
-		<social>60865</social>
-		<utilidades>35150.5187</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2011602901</boleta>
-		<infraestructura>41448</infraestructura>
-		<bancos>2036</bancos>
-		<insumos>42483.2536</insumos>
-		<en_x0020_proceso>14736</en_x0020_proceso>
-		<mercancias>58708</mercancias>
-		<clientes>66816</clientes>
-		<proveedores>16477</proveedores>
-		<prestamos>66903</prestamos>
-		<social>28344</social>
-		<utilidades>114503.2536</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2010603139</boleta>
-		<infraestructura>1935</infraestructura>
-		<bancos>66777</bancos>
-		<insumos>85985.6332</insumos>
-		<en_x0020_proceso>49255</en_x0020_proceso>
-		<mercancias>28382</mercancias>
-		<clientes>49601</clientes>
-		<proveedores>67257</proveedores>
-		<prestamos>48332</prestamos>
-		<social>48085</social>
-		<utilidades>118261.6332</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2013601883</boleta>
-		<infraestructura>52527</infraestructura>
-		<bancos>16812</bancos>
-		<insumos>33419.8975</insumos>
-		<en_x0020_proceso>2685</en_x0020_proceso>
-		<mercancias>54219</mercancias>
-		<clientes>31097</clientes>
-		<proveedores>10769</proveedores>
-		<prestamos>6168</prestamos>
-		<social>9385</social>
-		<utilidades>164437.8975</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014601908</boleta>
-		<infraestructura>23401</infraestructura>
-		<bancos>51002</bancos>
-		<insumos>26613.3418</insumos>
-		<en_x0020_proceso>13687</en_x0020_proceso>
-		<mercancias>23918</mercancias>
-		<clientes>24646</clientes>
-		<proveedores>3041</proveedores>
-		<prestamos>42630</prestamos>
-		<social>36255</social>
-		<utilidades>81341.3418</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2013601007</boleta>
-		<infraestructura>18494</infraestructura>
-		<bancos>3225</bancos>
-		<insumos>16038.0375</insumos>
-		<en_x0020_proceso>1084</en_x0020_proceso>
-		<mercancias>27702</mercancias>
-		<clientes>62984</clientes>
-		<proveedores>29757</proveedores>
-		<prestamos>64005</prestamos>
-		<social>63860</social>
-		<utilidades>-28094.9625</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014600095</boleta>
-		<infraestructura>8764</infraestructura>
-		<bancos>45800</bancos>
-		<insumos>78338.0169</insumos>
-		<en_x0020_proceso>42003</en_x0020_proceso>
-		<mercancias>15898</mercancias>
-		<clientes>48084</clientes>
-		<proveedores>40845</proveedores>
-		<prestamos>28875</prestamos>
-		<social>68913</social>
-		<utilidades>100254.0169</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014600118</boleta>
-		<infraestructura>66231</infraestructura>
-		<bancos>33570</bancos>
-		<insumos>14393.5768</insumos>
-		<en_x0020_proceso>55786</en_x0020_proceso>
-		<mercancias>3385</mercancias>
-		<clientes>61975</clientes>
-		<proveedores>9732</proveedores>
-		<prestamos>67237</prestamos>
-		<social>52365</social>
-		<utilidades>106006.5768</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014602070</boleta>
-		<infraestructura>13839</infraestructura>
-		<bancos>19557</bancos>
-		<insumos>25055.1555</insumos>
-		<en_x0020_proceso>15163</en_x0020_proceso>
-		<mercancias>11244</mercancias>
-		<clientes>42420</clientes>
-		<proveedores>20737</proveedores>
-		<prestamos>14235</prestamos>
-		<social>18990</social>
-		<utilidades>73316.1555</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014600179</boleta>
-		<infraestructura>38906</infraestructura>
-		<bancos>34899</bancos>
-		<insumos>17967.7058</insumos>
-		<en_x0020_proceso>1484</en_x0020_proceso>
-		<mercancias>44843</mercancias>
-		<clientes>9909</clientes>
-		<proveedores>37022</proveedores>
-		<prestamos>11685</prestamos>
-		<social>30285</social>
-		<utilidades>69016.7058</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014600213</boleta>
-		<infraestructura>18184</infraestructura>
-		<bancos>55011</bancos>
-		<insumos>33706.5326</insumos>
-		<en_x0020_proceso>3573</en_x0020_proceso>
-		<mercancias>46935</mercancias>
-		<clientes>38789</clientes>
-		<proveedores>34012</proveedores>
-		<prestamos>55486</prestamos>
-		<social>12779</social>
-		<utilidades>93921.5326</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014600241</boleta>
-		<infraestructura>39362</infraestructura>
-		<bancos>55494</bancos>
-		<insumos>23905.3971</insumos>
-		<en_x0020_proceso>59706</en_x0020_proceso>
-		<mercancias>37397</mercancias>
-		<clientes>11122</clientes>
-		<proveedores>68613</proveedores>
-		<prestamos>58407</prestamos>
-		<social>36482</social>
-		<utilidades>63484.3971</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014600249</boleta>
-		<infraestructura>54338</infraestructura>
-		<bancos>4301</bancos>
-		<insumos>30695.9243</insumos>
-		<en_x0020_proceso>18284</en_x0020_proceso>
-		<mercancias>3436</mercancias>
-		<clientes>55545</clientes>
-		<proveedores>16613</proveedores>
-		<prestamos>62034</prestamos>
-		<social>41519</social>
-		<utilidades>46433.9243</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014600277</boleta>
-		<infraestructura>58101</infraestructura>
-		<bancos>60918</bancos>
-		<insumos>7764.1597</insumos>
-		<en_x0020_proceso>53595</en_x0020_proceso>
-		<mercancias>54598</mercancias>
-		<clientes>3197</clientes>
-		<proveedores>47952</proveedores>
-		<prestamos>15345</prestamos>
-		<social>32981</social>
-		<utilidades>141895.1597</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2013600869</boleta>
-		<infraestructura>4420</infraestructura>
-		<bancos>10218</bancos>
-		<insumos>33640.6898</insumos>
-		<en_x0020_proceso>28939</en_x0020_proceso>
-		<mercancias>22123</mercancias>
-		<clientes>57697</clientes>
-		<proveedores>3467</proveedores>
-		<prestamos>41246</prestamos>
-		<social>52193</social>
-		<utilidades>60131.6898</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2013600279</boleta>
-		<infraestructura>45172</infraestructura>
-		<bancos>43936</bancos>
-		<insumos>8018.7115</insumos>
-		<en_x0020_proceso>27372</en_x0020_proceso>
-		<mercancias>4909</mercancias>
-		<clientes>8283</clientes>
-		<proveedores>46220</proveedores>
-		<prestamos>7596</prestamos>
-		<social>10141</social>
-		<utilidades>73733.7115</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2013600405</boleta>
-		<infraestructura>21316</infraestructura>
-		<bancos>18597</bancos>
-		<insumos>14307.9738</insumos>
-		<en_x0020_proceso>8416</en_x0020_proceso>
-		<mercancias>17015</mercancias>
-		<clientes>11485</clientes>
-		<proveedores>18127</proveedores>
-		<prestamos>38468</prestamos>
-		<social>20417</social>
-		<utilidades>14124.9738</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2012600337</boleta>
-		<infraestructura>63000</infraestructura>
-		<bancos>56848</bancos>
-		<insumos>119311.4768</insumos>
-		<en_x0020_proceso>61766</en_x0020_proceso>
-		<mercancias>34568</mercancias>
-		<clientes>45900</clientes>
-		<proveedores>3800</proveedores>
-		<prestamos>67406</prestamos>
-		<social>12066</social>
-		<utilidades>298121.4768</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014600428</boleta>
-		<infraestructura>11717</infraestructura>
-		<bancos>29722</bancos>
-		<insumos>107939.104</insumos>
-		<en_x0020_proceso>32878</en_x0020_proceso>
-		<mercancias>51585</mercancias>
-		<clientes>46770</clientes>
-		<proveedores>22101</proveedores>
-		<prestamos>23717</prestamos>
-		<social>42074</social>
-		<utilidades>192719.104</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2013602579</boleta>
-		<infraestructura>66982</infraestructura>
-		<bancos>19361</bancos>
-		<insumos>9453.2484</insumos>
-		<en_x0020_proceso>41095</en_x0020_proceso>
-		<mercancias>47186</mercancias>
-		<clientes>61129</clientes>
-		<proveedores>10293</proveedores>
-		<prestamos>27368</prestamos>
-		<social>46989</social>
-		<utilidades>160556.2484</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014600683</boleta>
-		<infraestructura>33801</infraestructura>
-		<bancos>59455</bancos>
-		<insumos>37528.4813</insumos>
-		<en_x0020_proceso>34040</en_x0020_proceso>
-		<mercancias>3205</mercancias>
-		<clientes>42815</clientes>
-		<proveedores>28676</proveedores>
-		<prestamos>43599</prestamos>
-		<social>5182</social>
-		<utilidades>133387.4813</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014600754</boleta>
-		<infraestructura>51818</infraestructura>
-		<bancos>20248</bancos>
-		<insumos>49429.9371</insumos>
-		<en_x0020_proceso>68165</en_x0020_proceso>
-		<mercancias>59578</mercancias>
-		<clientes>31540</clientes>
-		<proveedores>56865</proveedores>
-		<prestamos>35817</prestamos>
-		<social>41604</social>
-		<utilidades>146492.9371</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014602837</boleta>
-		<infraestructura>4094</infraestructura>
-		<bancos>66978</bancos>
-		<insumos>37175.6519</insumos>
-		<en_x0020_proceso>65403</en_x0020_proceso>
-		<mercancias>41910</mercancias>
-		<clientes>49763</clientes>
-		<proveedores>12623</proveedores>
-		<prestamos>3389</prestamos>
-		<social>13212</social>
-		<utilidades>236099.6519</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014600791</boleta>
-		<infraestructura>69420</infraestructura>
-		<bancos>13458</bancos>
-		<insumos>22954.9342</insumos>
-		<en_x0020_proceso>28723</en_x0020_proceso>
-		<mercancias>16748</mercancias>
-		<clientes>40256</clientes>
-		<proveedores>68380</proveedores>
-		<prestamos>63643</prestamos>
-		<social>66202</social>
-		<utilidades>-6665.0658</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2009601256</boleta>
-		<infraestructura>49230</infraestructura>
-		<bancos>15782</bancos>
-		<insumos>9364.3783</insumos>
-		<en_x0020_proceso>51003</en_x0020_proceso>
-		<mercancias>30781</mercancias>
-		<clientes>34604</clientes>
-		<proveedores>28124</proveedores>
-		<prestamos>19902</prestamos>
-		<social>34760</social>
-		<utilidades>107978.3783</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014600894</boleta>
-		<infraestructura>34235</infraestructura>
-		<bancos>34639</bancos>
-		<insumos>13334.8062</insumos>
-		<en_x0020_proceso>24670</en_x0020_proceso>
-		<mercancias>43538</mercancias>
-		<clientes>61788</clientes>
-		<proveedores>66855</proveedores>
-		<prestamos>12164</prestamos>
-		<social>47744</social>
-		<utilidades>85441.8062</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014600921</boleta>
-		<infraestructura>49343</infraestructura>
-		<bancos>27317</bancos>
-		<insumos>94618.2759</insumos>
-		<en_x0020_proceso>30047</en_x0020_proceso>
-		<mercancias>55967</mercancias>
-		<clientes>22949</clientes>
-		<proveedores>32925</proveedores>
-		<prestamos>66430</prestamos>
-		<social>33566</social>
-		<utilidades>147320.2759</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2013601015</boleta>
-		<infraestructura>58938</infraestructura>
-		<bancos>50463</bancos>
-		<insumos>21676.9936</insumos>
-		<en_x0020_proceso>48762</en_x0020_proceso>
-		<mercancias>16953</mercancias>
-		<clientes>66865</clientes>
-		<proveedores>21784</proveedores>
-		<prestamos>62189</prestamos>
-		<social>56464</social>
-		<utilidades>123220.9936</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014600952</boleta>
-		<infraestructura>65579</infraestructura>
-		<bancos>45898</bancos>
-		<insumos>39094.8833</insumos>
-		<en_x0020_proceso>68388</en_x0020_proceso>
-		<mercancias>44449</mercancias>
-		<clientes>18416</clientes>
-		<proveedores>28016</proveedores>
-		<prestamos>28567</prestamos>
-		<social>34001</social>
-		<utilidades>191240.8833</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2011602559</boleta>
-		<infraestructura>38583</infraestructura>
-		<bancos>43153</bancos>
-		<insumos>22494.4602</insumos>
-		<en_x0020_proceso>40775</en_x0020_proceso>
-		<mercancias>18686</mercancias>
-		<clientes>68633</clientes>
-		<proveedores>17979</proveedores>
-		<prestamos>22890</prestamos>
-		<social>48015</social>
-		<utilidades>143440.4602</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014601158</boleta>
-		<infraestructura>51626</infraestructura>
-		<bancos>67036</bancos>
-		<insumos>26099.8199</insumos>
-		<en_x0020_proceso>43594</en_x0020_proceso>
-		<mercancias>22634</mercancias>
-		<clientes>31368</clientes>
-		<proveedores>46810</proveedores>
-		<prestamos>27245</prestamos>
-		<social>13800</social>
-		<utilidades>154502.8199</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014601178</boleta>
-		<infraestructura>39259</infraestructura>
-		<bancos>55242</bancos>
-		<insumos>13759.9908</insumos>
-		<en_x0020_proceso>37796</en_x0020_proceso>
-		<mercancias>66538</mercancias>
-		<clientes>49231</clientes>
-		<proveedores>59367</proveedores>
-		<prestamos>49970</prestamos>
-		<social>58018</social>
-		<utilidades>94470.9908</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2012350555</boleta>
-		<infraestructura>18882</infraestructura>
-		<bancos>56705</bancos>
-		<insumos>25369.2542</insumos>
-		<en_x0020_proceso>37708</en_x0020_proceso>
-		<mercancias>6177</mercancias>
-		<clientes>24396</clientes>
-		<proveedores>23247</proveedores>
-		<prestamos>53267</prestamos>
-		<social>23556</social>
-		<utilidades>69167.2542</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014601232</boleta>
-		<infraestructura>45658</infraestructura>
-		<bancos>23127</bancos>
-		<insumos>36389.0815</insumos>
-		<en_x0020_proceso>25905</en_x0020_proceso>
-		<mercancias>35386</mercancias>
-		<clientes>52540</clientes>
-		<proveedores>1773</proveedores>
-		<prestamos>60876</prestamos>
-		<social>11457</social>
-		<utilidades>144899.0815</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2013600679</boleta>
-		<infraestructura>3859</infraestructura>
-		<bancos>10296</bancos>
-		<insumos>103433.0869</insumos>
-		<en_x0020_proceso>22410</en_x0020_proceso>
-		<mercancias>38360</mercancias>
-		<clientes>55959</clientes>
-		<proveedores>22186</proveedores>
-		<prestamos>36145</prestamos>
-		<social>32090</social>
-		<utilidades>143896.0869</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2012601128</boleta>
-		<infraestructura>63217</infraestructura>
-		<bancos>14950</bancos>
-		<insumos>94900.7771</insumos>
-		<en_x0020_proceso>21448</en_x0020_proceso>
-		<mercancias>44272</mercancias>
-		<clientes>64201</clientes>
-		<proveedores>30160</proveedores>
-		<prestamos>39776</prestamos>
-		<social>67890</social>
-		<utilidades>165162.7771</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2013600946</boleta>
-		<infraestructura>24802</infraestructura>
-		<bancos>61269</bancos>
-		<insumos>78083.4477</insumos>
-		<en_x0020_proceso>55217</en_x0020_proceso>
-		<mercancias>14381</mercancias>
-		<clientes>28892</clientes>
-		<proveedores>23785</proveedores>
-		<prestamos>3197</prestamos>
-		<social>26163</social>
-		<utilidades>209499.4477</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014601518</boleta>
-		<infraestructura>16202</infraestructura>
-		<bancos>65757</bancos>
-		<insumos>31650.1101</insumos>
-		<en_x0020_proceso>20560</en_x0020_proceso>
-		<mercancias>56068</mercancias>
-		<clientes>15875</clientes>
-		<proveedores>8748</proveedores>
-		<prestamos>24052</prestamos>
-		<social>43290</social>
-		<utilidades>130022.1101</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2013600961</boleta>
-		<infraestructura>63410</infraestructura>
-		<bancos>67117</bancos>
-		<insumos>17476.8264</insumos>
-		<en_x0020_proceso>28937</en_x0020_proceso>
-		<mercancias>3608</mercancias>
-		<clientes>36221</clientes>
-		<proveedores>63757</proveedores>
-		<prestamos>19117</prestamos>
-		<social>23654</social>
-		<utilidades>110241.8264</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014602518</boleta>
-		<infraestructura>56802</infraestructura>
-		<bancos>52187</bancos>
-		<insumos>39499.8962</insumos>
-		<en_x0020_proceso>39505</en_x0020_proceso>
-		<mercancias>69831</mercancias>
-		<clientes>45150</clientes>
-		<proveedores>18759</proveedores>
-		<prestamos>18480</prestamos>
-		<social>69805</social>
-		<utilidades>195930.8962</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2013600488</boleta>
-		<infraestructura>28307</infraestructura>
-		<bancos>44016</bancos>
-		<insumos>42862.2174</insumos>
-		<en_x0020_proceso>14054</en_x0020_proceso>
-		<mercancias>62572</mercancias>
-		<clientes>30433</clientes>
-		<proveedores>12758</proveedores>
-		<prestamos>22076</prestamos>
-		<social>2489</social>
-		<utilidades>184921.2174</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014601839</boleta>
-		<infraestructura>18842</infraestructura>
-		<bancos>37660</bancos>
-		<insumos>10647.9249</insumos>
-		<en_x0020_proceso>25313</en_x0020_proceso>
-		<mercancias>13224</mercancias>
-		<clientes>13698</clientes>
-		<proveedores>59199</proveedores>
-		<prestamos>68165</prestamos>
-		<social>22343</social>
-		<utilidades>-30322.0751</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014601851</boleta>
-		<infraestructura>55846</infraestructura>
-		<bancos>65761</bancos>
-		<insumos>15076.8549</insumos>
-		<en_x0020_proceso>2275</en_x0020_proceso>
-		<mercancias>11478</mercancias>
-		<clientes>36088</clientes>
-		<proveedores>23887</proveedores>
-		<prestamos>31090</prestamos>
-		<social>60496</social>
-		<utilidades>71051.8549</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014601863</boleta>
-		<infraestructura>53590</infraestructura>
-		<bancos>2460</bancos>
-		<insumos>19968.3778</insumos>
-		<en_x0020_proceso>62385</en_x0020_proceso>
-		<mercancias>49018</mercancias>
-		<clientes>48638</clientes>
-		<proveedores>67397</proveedores>
-		<prestamos>4591</prestamos>
-		<social>61193</social>
-		<utilidades>102878.3778</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2013600804</boleta>
-		<infraestructura>43509</infraestructura>
-		<bancos>13300</bancos>
-		<insumos>15767.5325</insumos>
-		<en_x0020_proceso>36265</en_x0020_proceso>
-		<mercancias>63433</mercancias>
-		<clientes>14122</clientes>
-		<proveedores>51504</proveedores>
-		<prestamos>21340</prestamos>
-		<social>51767</social>
-		<utilidades>61785.5325</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014602005</boleta>
-		<infraestructura>11793</infraestructura>
-		<bancos>10662</bancos>
-		<insumos>74827.4514</insumos>
-		<en_x0020_proceso>33249</en_x0020_proceso>
-		<mercancias>5816</mercancias>
-		<clientes>5541</clientes>
-		<proveedores>42038</proveedores>
-		<prestamos>2001</prestamos>
-		<social>37490</social>
-		<utilidades>65359.4514</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2013601629</boleta>
-		<infraestructura>67224</infraestructura>
-		<bancos>38375</bancos>
-		<insumos>27005.2554</insumos>
-		<en_x0020_proceso>36578</en_x0020_proceso>
-		<mercancias>7869</mercancias>
-		<clientes>61963</clientes>
-		<proveedores>52409</proveedores>
-		<prestamos>40842</prestamos>
-		<social>18230</social>
-		<utilidades>127533.2554</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2013601046</boleta>
-		<infraestructura>18460</infraestructura>
-		<bancos>5981</bancos>
-		<insumos>27876.8407</insumos>
-		<en_x0020_proceso>4426</en_x0020_proceso>
-		<mercancias>38011</mercancias>
-		<clientes>54152</clientes>
-		<proveedores>36436</proveedores>
-		<prestamos>62990</prestamos>
-		<social>27109</social>
-		<utilidades>22371.8407</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014600085</boleta>
-		<infraestructura>25549</infraestructura>
-		<bancos>37127</bancos>
-		<insumos>8455.49</insumos>
-		<en_x0020_proceso>26021</en_x0020_proceso>
-		<mercancias>45744</mercancias>
-		<clientes>6656</clientes>
-		<proveedores>23137</proveedores>
-		<prestamos>23774</prestamos>
-		<social>42848</social>
-		<utilidades>59793.49</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2011601324</boleta>
-		<infraestructura>63016</infraestructura>
-		<bancos>66311</bancos>
-		<insumos>15589.0161</insumos>
-		<en_x0020_proceso>3549</en_x0020_proceso>
-		<mercancias>64868</mercancias>
-		<clientes>46273</clientes>
-		<proveedores>11045</proveedores>
-		<prestamos>11454</prestamos>
-		<social>69716</social>
-		<utilidades>167391.0161</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2012600090</boleta>
-		<infraestructura>57901</infraestructura>
-		<bancos>15008</bancos>
-		<insumos>34587.4379</insumos>
-		<en_x0020_proceso>27220</en_x0020_proceso>
-		<mercancias>30688</mercancias>
-		<clientes>42999</clientes>
-		<proveedores>38381</proveedores>
-		<prestamos>4492</prestamos>
-		<social>30208</social>
-		<utilidades>135322.4379</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014602069</boleta>
-		<infraestructura>44460</infraestructura>
-		<bancos>65195</bancos>
-		<insumos>24883.1814</insumos>
-		<en_x0020_proceso>3734</en_x0020_proceso>
-		<mercancias>45857</mercancias>
-		<clientes>56201</clientes>
-		<proveedores>47741</proveedores>
-		<prestamos>20640</prestamos>
-		<social>43658</social>
-		<utilidades>128291.1814</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2012602718</boleta>
-		<infraestructura>57640</infraestructura>
-		<bancos>22523</bancos>
-		<insumos>28704.55</insumos>
-		<en_x0020_proceso>14368</en_x0020_proceso>
-		<mercancias>25979</mercancias>
-		<clientes>69748</clientes>
-		<proveedores>26619</proveedores>
-		<prestamos>66238</prestamos>
-		<social>47215</social>
-		<utilidades>78890.55</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2012601800</boleta>
-		<infraestructura>45703</infraestructura>
-		<bancos>34870</bancos>
-		<insumos>93660.6678</insumos>
-		<en_x0020_proceso>67787</en_x0020_proceso>
-		<mercancias>52540</mercancias>
-		<clientes>1905</clientes>
-		<proveedores>13150</proveedores>
-		<prestamos>60934</prestamos>
-		<social>22337</social>
-		<utilidades>200044.6678</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2012602345</boleta>
-		<infraestructura>1445</infraestructura>
-		<bancos>20401</bancos>
-		<insumos>127866.7064</insumos>
-		<en_x0020_proceso>13767</en_x0020_proceso>
-		<mercancias>34905</mercancias>
-		<clientes>17822</clientes>
-		<proveedores>54976</proveedores>
-		<prestamos>22877</prestamos>
-		<social>66806</social>
-		<utilidades>71547.7064</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2013600943</boleta>
-		<infraestructura>49243</infraestructura>
-		<bancos>27213</bancos>
-		<insumos>23725.4498</insumos>
-		<en_x0020_proceso>19430</en_x0020_proceso>
-		<mercancias>6143</mercancias>
-		<clientes>57109</clientes>
-		<proveedores>41926</proveedores>
-		<prestamos>15254</prestamos>
-		<social>44940</social>
-		<utilidades>80743.4498</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014600441</boleta>
-		<infraestructura>9308</infraestructura>
-		<bancos>64437</bancos>
-		<insumos>5564.4066</insumos>
-		<en_x0020_proceso>67192</en_x0020_proceso>
-		<mercancias>26537</mercancias>
-		<clientes>43551</clientes>
-		<proveedores>7589</proveedores>
-		<prestamos>60332</prestamos>
-		<social>66841</social>
-		<utilidades>81827.4066</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2009600346</boleta>
-		<infraestructura>42570</infraestructura>
-		<bancos>43440</bancos>
-		<insumos>8340.2366</insumos>
-		<en_x0020_proceso>10208</en_x0020_proceso>
-		<mercancias>6724</mercancias>
-		<clientes>4082</clientes>
-		<proveedores>55913</proveedores>
-		<prestamos>7290</prestamos>
-		<social>21999</social>
-		<utilidades>30162.2366</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2013601037</boleta>
-		<infraestructura>33381</infraestructura>
-		<bancos>3915</bancos>
-		<insumos>47754.2838</insumos>
-		<en_x0020_proceso>53019</en_x0020_proceso>
-		<mercancias>39833</mercancias>
-		<clientes>35116</clientes>
-		<proveedores>14893</proveedores>
-		<prestamos>42624</prestamos>
-		<social>52485</social>
-		<utilidades>103016.2838</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2010600292</boleta>
-		<infraestructura>53910</infraestructura>
-		<bancos>46096</bancos>
-		<insumos>10366.1608</insumos>
-		<en_x0020_proceso>3029</en_x0020_proceso>
-		<mercancias>14153</mercancias>
-		<clientes>41726</clientes>
-		<proveedores>69722</proveedores>
-		<prestamos>34612</prestamos>
-		<social>6512</social>
-		<utilidades>58434.1608</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2013601709</boleta>
-		<infraestructura>1713</infraestructura>
-		<bancos>17286</bancos>
-		<insumos>11304.1159</insumos>
-		<en_x0020_proceso>8466</en_x0020_proceso>
-		<mercancias>63279</mercancias>
-		<clientes>40962</clientes>
-		<proveedores>40418</proveedores>
-		<prestamos>23112</prestamos>
-		<social>68771</social>
-		<utilidades>10709.1159</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2011603155</boleta>
-		<infraestructura>59087</infraestructura>
-		<bancos>11098</bancos>
-		<insumos>31476.8842</insumos>
-		<en_x0020_proceso>18148</en_x0020_proceso>
-		<mercancias>24937</mercancias>
-		<clientes>34010</clientes>
-		<proveedores>67413</proveedores>
-		<prestamos>12209</prestamos>
-		<social>63251</social>
-		<utilidades>35883.8842</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2012600747</boleta>
-		<infraestructura>54239</infraestructura>
-		<bancos>32814</bancos>
-		<insumos>12766.8874</insumos>
-		<en_x0020_proceso>31970</en_x0020_proceso>
-		<mercancias>67599</mercancias>
-		<clientes>2127</clientes>
-		<proveedores>34979</proveedores>
-		<prestamos>48939</prestamos>
-		<social>7656</social>
-		<utilidades>109941.8874</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2011602801</boleta>
-		<infraestructura>8308</infraestructura>
-		<bancos>66877</bancos>
-		<insumos>10661.2721</insumos>
-		<en_x0020_proceso>49047</en_x0020_proceso>
-		<mercancias>67385</mercancias>
-		<clientes>52126</clientes>
-		<proveedores>21408</proveedores>
-		<prestamos>47688</prestamos>
-		<social>37090</social>
-		<utilidades>148218.2721</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014600966</boleta>
-		<infraestructura>55472</infraestructura>
-		<bancos>66598</bancos>
-		<insumos>22483.0795</insumos>
-		<en_x0020_proceso>45833</en_x0020_proceso>
-		<mercancias>36257</mercancias>
-		<clientes>66869</clientes>
-		<proveedores>1042</proveedores>
-		<prestamos>15012</prestamos>
-		<social>30267</social>
-		<utilidades>247191.0795</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2013600940</boleta>
-		<infraestructura>26920</infraestructura>
-		<bancos>51992</bancos>
-		<insumos>7758.2411</insumos>
-		<en_x0020_proceso>28431</en_x0020_proceso>
-		<mercancias>14489</mercancias>
-		<clientes>16373</clientes>
-		<proveedores>30026</proveedores>
-		<prestamos>63238</prestamos>
-		<social>2630</social>
-		<utilidades>50069.2411</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2013340222</boleta>
-		<infraestructura>58905</infraestructura>
-		<bancos>1518</bancos>
-		<insumos>24727.2404</insumos>
-		<en_x0020_proceso>34594</en_x0020_proceso>
-		<mercancias>23067</mercancias>
-		<clientes>38155</clientes>
-		<proveedores>40011</proveedores>
-		<prestamos>68905</prestamos>
-		<social>13390</social>
-		<utilidades>58660.2404</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2013600764</boleta>
-		<infraestructura>26843</infraestructura>
-		<bancos>29863</bancos>
-		<insumos>8666.3534</insumos>
-		<en_x0020_proceso>22731</en_x0020_proceso>
-		<mercancias>32808</mercancias>
-		<clientes>65820</clientes>
-		<proveedores>54263</proveedores>
-		<prestamos>69562</prestamos>
-		<social>60174</social>
-		<utilidades>2732.3534</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2013601783</boleta>
-		<infraestructura>26031</infraestructura>
-		<bancos>52287</bancos>
-		<insumos>22609.2216</insumos>
-		<en_x0020_proceso>19578</en_x0020_proceso>
-		<mercancias>5069</mercancias>
-		<clientes>8554</clientes>
-		<proveedores>50588</proveedores>
-		<prestamos>22819</prestamos>
-		<social>24556</social>
-		<utilidades>36165.2216</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2011603240</boleta>
-		<infraestructura>15224</infraestructura>
-		<bancos>28688</bancos>
-		<insumos>11323.8449</insumos>
-		<en_x0020_proceso>22715</en_x0020_proceso>
-		<mercancias>6936</mercancias>
-		<clientes>34895</clientes>
-		<proveedores>8807</proveedores>
-		<prestamos>28522</prestamos>
-		<social>58766</social>
-		<utilidades>23686.8449</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2013600905</boleta>
-		<infraestructura>4718</infraestructura>
-		<bancos>43171</bancos>
-		<insumos>116341.6497</insumos>
-		<en_x0020_proceso>63070</en_x0020_proceso>
-		<mercancias>53871</mercancias>
-		<clientes>13970</clientes>
-		<proveedores>27843</proveedores>
-		<prestamos>65958</prestamos>
-		<social>15758</social>
-		<utilidades>185582.6497</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2012350620</boleta>
-		<infraestructura>31757</infraestructura>
-		<bancos>68883</bancos>
-		<insumos>99715.868</insumos>
-		<en_x0020_proceso>55875</en_x0020_proceso>
-		<mercancias>59044</mercancias>
-		<clientes>43985</clientes>
-		<proveedores>2638</proveedores>
-		<prestamos>41125</prestamos>
-		<social>57508</social>
-		<utilidades>257988.868</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014601376</boleta>
-		<infraestructura>44517</infraestructura>
-		<bancos>66565</bancos>
-		<insumos>19505.5608</insumos>
-		<en_x0020_proceso>54421</en_x0020_proceso>
-		<mercancias>7751</mercancias>
-		<clientes>66269</clientes>
-		<proveedores>5245</proveedores>
-		<prestamos>2802</prestamos>
-		<social>46907</social>
-		<utilidades>204074.5608</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014601384</boleta>
-		<infraestructura>65908</infraestructura>
-		<bancos>10000</bancos>
-		<insumos>21106.187</insumos>
-		<en_x0020_proceso>69898</en_x0020_proceso>
-		<mercancias>17962</mercancias>
-		<clientes>68571</clientes>
-		<proveedores>14220</proveedores>
-		<prestamos>4726</prestamos>
-		<social>39226</social>
-		<utilidades>195273.187</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2013600070</boleta>
-		<infraestructura>37290</infraestructura>
-		<bancos>10622</bancos>
-		<insumos>10686.431</insumos>
-		<en_x0020_proceso>66421</en_x0020_proceso>
-		<mercancias>29804</mercancias>
-		<clientes>55860</clientes>
-		<proveedores>17037</proveedores>
-		<prestamos>24734</prestamos>
-		<social>35159</social>
-		<utilidades>133753.431</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2012601341</boleta>
-		<infraestructura>22196</infraestructura>
-		<bancos>50964</bancos>
-		<insumos>19866.3137</insumos>
-		<en_x0020_proceso>52745</en_x0020_proceso>
-		<mercancias>39279</mercancias>
-		<clientes>44819</clientes>
-		<proveedores>25920</proveedores>
-		<prestamos>22182</prestamos>
-		<social>35363</social>
-		<utilidades>146404.3137</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2010600713</boleta>
-		<infraestructura>51464</infraestructura>
-		<bancos>42214</bancos>
-		<insumos>34768.0652</insumos>
-		<en_x0020_proceso>64516</en_x0020_proceso>
-		<mercancias>48363</mercancias>
-		<clientes>21240</clientes>
-		<proveedores>54953</proveedores>
-		<prestamos>63462</prestamos>
-		<social>65886</social>
-		<utilidades>78264.0652</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2013600057</boleta>
-		<infraestructura>66966</infraestructura>
-		<bancos>26377</bancos>
-		<insumos>78553.2278</insumos>
-		<en_x0020_proceso>35245</en_x0020_proceso>
-		<mercancias>28825</mercancias>
-		<clientes>41454</clientes>
-		<proveedores>38482</proveedores>
-		<prestamos>14516</prestamos>
-		<social>55311</social>
-		<utilidades>169111.2278</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014601846</boleta>
-		<infraestructura>3503</infraestructura>
-		<bancos>28815</bancos>
-		<insumos>50155.7849</insumos>
-		<en_x0020_proceso>2263</en_x0020_proceso>
-		<mercancias>33863</mercancias>
-		<clientes>13369</clientes>
-		<proveedores>40631</proveedores>
-		<prestamos>29243</prestamos>
-		<social>49924</social>
-		<utilidades>12170.7849</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2010603424</boleta>
-		<infraestructura>19460</infraestructura>
-		<bancos>67474</bancos>
-		<insumos>23447.0062</insumos>
-		<en_x0020_proceso>49436</en_x0020_proceso>
-		<mercancias>59194</mercancias>
-		<clientes>14001</clientes>
-		<proveedores>8666</proveedores>
-		<prestamos>65754</prestamos>
-		<social>53433</social>
-		<utilidades>205159.0062</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014601879</boleta>
-		<infraestructura>62028</infraestructura>
-		<bancos>7987</bancos>
-		<insumos>45541.2569</insumos>
-		<en_x0020_proceso>15603</en_x0020_proceso>
-		<mercancias>60483</mercancias>
-		<clientes>56458</clientes>
-		<proveedores>61082</proveedores>
-		<prestamos>1123</prestamos>
-		<social>13340</social>
-		<utilidades>172555.2569</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2012602203</boleta>
-		<infraestructura>29241</infraestructura>
-		<bancos>27964</bancos>
-		<insumos>26672.3603</insumos>
-		<en_x0020_proceso>23043</en_x0020_proceso>
-		<mercancias>64906</mercancias>
-		<clientes>39701</clientes>
-		<proveedores>17950</proveedores>
-		<prestamos>11090</prestamos>
-		<social>32300</social>
-		<utilidades>150187.3603</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014601882</boleta>
-		<infraestructura>27450</infraestructura>
-		<bancos>58125</bancos>
-		<insumos>14131.2475</insumos>
-		<en_x0020_proceso>1823</en_x0020_proceso>
-		<mercancias>66865</mercancias>
-		<clientes>5284</clientes>
-		<proveedores>50161</proveedores>
-		<prestamos>7279</prestamos>
-		<social>63860</social>
-		<utilidades>52378.2475</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2014601907</boleta>
-		<infraestructura>44242</infraestructura>
-		<bancos>4330</bancos>
-		<insumos>40458.1152</insumos>
-		<en_x0020_proceso>20086</en_x0020_proceso>
-		<mercancias>55821</mercancias>
-		<clientes>38360</clientes>
-		<proveedores>58366</proveedores>
-		<prestamos>48301</prestamos>
-		<social>14505</social>
-		<utilidades>82125.1152</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2010602674</boleta>
-		<infraestructura>27724</infraestructura>
-		<bancos>60926</bancos>
-		<insumos>119860.2529</insumos>
-		<en_x0020_proceso>15937</en_x0020_proceso>
-		<mercancias>40349</mercancias>
-		<clientes>15069</clientes>
-		<proveedores>45350</proveedores>
-		<prestamos>2065</prestamos>
-		<social>62111</social>
-		<utilidades>170339.2529</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2013601084</boleta>
-		<infraestructura>12014</infraestructura>
-		<bancos>39002</bancos>
-		<insumos>79712.4647</insumos>
-		<en_x0020_proceso>40732</en_x0020_proceso>
-		<mercancias>40839</mercancias>
-		<clientes>56534</clientes>
-		<proveedores>13755</proveedores>
-		<prestamos>19615</prestamos>
-		<social>6472</social>
-		<utilidades>228991.4647</utilidades>
-	</financieras>
-	<financieras>
-		<boleta>2013600180</boleta>
-		<infraestructura>44479</infraestructura>
-		<bancos>58597</bancos>
-		<insumos>8448.9321</insumos>
-		<en_x0020_proceso>69528</en_x0020_proceso>
-		<mercancias>26000</mercancias>
-		<clientes>54609</clientes>
-		<proveedores>13702</proveedores>
-		<prestamos>39439</prestamos>
-		<social>32927</social>
-		<utilidades>175593.9321</utilidades>
-	</financieras>
-</mercado>
+	</cliente>
+</futuro>
