@@ -59,38 +59,44 @@
 	<cliente>
 		<id>2013600771</id>
 		<nombre>GARCIA CABELLO MARTHA LETICIA</nombre>
-		<industria>1</industria>
-		<grupo>in1</grupo>
+		<ahorrado>10000</ahorrado>
+		<interes>0.2</interes>
+		<anio>5</anio>
 	</cliente>
 	<cliente>
 		<id>2013601935</id>
 		<nombre>GARCIA SANDOVAL ALEJANDRA IBETH</nombre>
-		<industria>4</industria>
-		<grupo>in1</grupo>
+		<ahorrado>10000</ahorrado>
+		<interes>0.2</interes>
+		<anio>5</anio>
 	</cliente>
 	<cliente>
 		<id>2013601694</id>
 		<nombre>GAYTAN DOMINGUEZ RICARDO</nombre>
-		<industria>2</industria>
-		<grupo>in1</grupo>
+		<ahorrado>10000</ahorrado>
+		<interes>0.2</interes>
+		<anio>5</anio>
 	</cliente>
 	<cliente>
 		<id>2013602145</id>
 		<nombre>GRESS ROBLES RICARDO</nombre>
-		<industria>2</industria>
-		<grupo>in1</grupo>
+		<ahorrado>10000</ahorrado>
+		<interes>0.2</interes>
+		<anio>5</anio>
 	</cliente>
 	<cliente>
 		<id>2013600646</id>
 		<nombre>HERNANDEZ CASTA�ARES JONATHAN NOE</nombre>
-		<industria>1</industria>
-		<grupo>in1</grupo>
+		<ahorrado>10000</ahorrado>
+		<interes>0.2</interes>
+		<anio>5</anio>
 	</cliente>
 	<cliente>
 		<id>2014600896</id>
 		<nombre>INIESTRA BAUTISTA MARIA ESTHER</nombre>
-		<industria>6</industria>
-		<grupo>in1</grupo>
+		<ahorrado>10000</ahorrado>
+		<interes>0.2</interes>
+		<anio>5</anio>
 	</cliente>
 	<cliente>
 		<id>2013601617</id>
