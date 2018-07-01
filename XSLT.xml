@@ -17,7 +17,11 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <xsl:for-each select="futuro/cliente">
 
         <xsl:variable name="potencia" select="1 + interes" />
-        
+        <xsl:param name="eleva" select="0" />
+
+        <xsl:when test="$eleva = anio">
+          
+        </xsl:when>
 
         <xsl:variable name="final" select="ahorrado * (($potencia - 1) div interes)" />
 
