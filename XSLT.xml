@@ -4,7 +4,6 @@
                 xmlns:math="http://exslt.org/math"
                 extension-element-prefixes="math">
 
-
   <xsl:template name="principal" match="/">
   <head>
   <title>Serie uniforme de pagos</title>
@@ -20,7 +19,6 @@
         <xsl:for-each select="futuro/cliente">
 
           <xsl:variable name="potencia" select="(1 + interes)" />
-
           <xsl:variable name="final" select="ahorrado * (($potencia - 1) div interes)" />
 
         <tr bgcolor="#FFFFFF">
