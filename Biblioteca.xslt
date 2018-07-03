@@ -3,7 +3,7 @@
     <xsl:variable name="hoy">
         2005
     </xsl:variable>
-    <xsl:template match="/">
+    <xsl:template match="//catalogo">
         <html lang="es-ES">
             <head>
                 <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
@@ -30,7 +30,7 @@
                             Título
                         </th>
                     </tr>
-                    <xsl:for-each select="catalogo/datos/libro[edicion/anyo >= $hoy - 5]">
+                    <xsl:for-each select="operaciones/datos/libro[edicion/anyo >= $hoy - 5]">
                         <xsl:sort select="autor[1]">
                         </xsl:sort>
                         <tr>
@@ -39,12 +39,10 @@
                                 </xsl:value-of>
                             </td>
                             <td style="border : 1px solid green;">
-                                <xsl:apply-templates select="titulo">
-                                </xsl:apply-templates>
+                                <xsl:apply-templates select="titulo" />
                                 <xsl:if test="edicion[@numedic]">
                                     (
-                                    <xsl:value-of select="edicion/@numedic">
-                                    </xsl:value-of>
+                                    <xsl:value-of select="edicion/@numedic" />
                                     a. ed.)
                                 </xsl:if>
                                 <xsl:choose>
@@ -70,14 +68,55 @@
                 </table>
                 <p>
                     Nota: Los asteriscos indican obras de los cuatro últimos años (****: año en curso -
-                    <xsl:value-of select="$hoy">
-                    </xsl:value-of>
+                    <xsl:value-of select="$hoy"/>
                     - y anterior)
                 </p>
                 <h1>
                 	Lista de consultas SQL
                 </h1>
-                
+
+		        <xsl:for-each select="child::*/*">
+		            <xsl:choose>
+		                <xsl:when test="name()='disenio'">
+		                    <xsl:for-each select="child::*">
+		                        CREATE TABLE
+		                        <xsl:value-of select="name(.)"/>
+		                        (
+		                        <xsl:for-each select="child::*">
+		                            <xsl:value-of select="name(.)"/>
+		                            <xsl:choose>
+		                                <xsl:when test="(.)='entero'"> int </xsl:when>
+		                                <xsl:when test="(.)='texto'"> text </xsl:when>
+		                                <xsl:when test="(.)='logico'"> boolean </xsl:when>
+		                                <xsl:when test="(.)='decimal'"> double </xsl:when>
+		                                <xsl:when test="(.)='fecha'"> date </xsl:when>
+		                            </xsl:choose>
+		                            <xsl:if test="following-sibling::*">
+		                                ,
+		                            </xsl:if>
+		                        </xsl:for-each>
+		                        );
+		                        <br/>
+		                    </xsl:for-each>
+		                </xsl:when>
+		                <xsl:when test="name()='datos'">
+		                    <xsl:for-each select="child::*">
+		                        INSERT INTO
+		                        <xsl:value-of select="name(.)" />
+		                        VALUES (
+		                        <xsl:for-each select="child::*">
+		                            <xsl:value-of select="(.)" />
+		                            <xsl:if test="following-sibling::*">
+		                                ,
+		                            </xsl:if>
+		                        </xsl:for-each>
+		                        );
+		                        <br/>
+		                    </xsl:for-each>
+		                </xsl:when>
+		            </xsl:choose>
+		        </xsl:for-each>
+
             </body>
         </html>
     </xsl:template>

@@ -29,10 +29,10 @@
                 </xsl:when>
                 <xsl:when test="name()='registros'">
                     <xsl:for-each select="child::*">
-                        Insert into
+                        INSERT INTO
                         <xsl:value-of select="name(.)">
                         </xsl:value-of>
-                        values (
+                        VALUES (
                         <xsl:for-each select="child::*">
                             <xsl:value-of select="(.)">
                             </xsl:value-of>
